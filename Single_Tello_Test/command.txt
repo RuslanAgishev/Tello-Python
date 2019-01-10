@@ -1,4 +1,8 @@
 command
 takeoff
 delay 5
+forward 100
+delay 5
+back 100
+delay 5
 land
